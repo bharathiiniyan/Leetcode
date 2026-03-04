@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
