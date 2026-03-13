@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
+| [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0145-binary-tree-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
