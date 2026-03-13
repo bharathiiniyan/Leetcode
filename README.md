@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/bharathiiniyan/Leetode/tree/master/0101-symmetric-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/bharathiiniyan/Leetode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
