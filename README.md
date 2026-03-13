@@ -66,19 +66,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/bharathiiniyan/Leetode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/bharathiiniyan/Leetode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/bharathiiniyan/Leetode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathiiniyan/Leetode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/bharathiiniyan/Leetode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
