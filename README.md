@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
+| [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bharathiiniyan/Leetode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 ## Two Pointers
 |  |
 | ------- |
