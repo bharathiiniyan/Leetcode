@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3861-minimum-capacity-box](https://github.com/bharathiiniyan/Leetode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Breadth-First Search
 |  |
 | ------- |
