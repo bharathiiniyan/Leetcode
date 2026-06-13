@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2574-left-and-right-sum-differences](https://github.com/bharathiiniyan/Leetode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/bharathiiniyan/Leetode/tree/master/3861-minimum-capacity-box) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/bharathiiniyan/Leetode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
