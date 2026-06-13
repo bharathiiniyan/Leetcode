@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/bharathiiniyan/Leetode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
+| [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
