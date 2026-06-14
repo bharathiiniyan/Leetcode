@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/bharathiiniyan/Leetode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bharathiiniyan/Leetode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/bharathiiniyan/Leetode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/bharathiiniyan/Leetode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
