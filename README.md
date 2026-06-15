@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/bharathiiniyan/Leetode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2574-left-and-right-sum-differences](https://github.com/bharathiiniyan/Leetode/tree/master/2574-left-and-right-sum-differences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/bharathiiniyan/Leetode/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bharathiiniyan/Leetode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/bharathiiniyan/Leetode/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Breadth-First Search
 |  |
