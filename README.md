@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/bharathiiniyan/Leetode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bharathiiniyan/Leetode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/bharathiiniyan/Leetode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/bharathiiniyan/Leetode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Breadth-First Search
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/bharathiiniyan/Leetode/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bharathiiniyan/Leetode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
