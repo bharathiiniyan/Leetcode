@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/bharathiiniyan/Leetode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/bharathiiniyan/Leetode/tree/master/0441-arranging-coins) |
+| [2235-add-two-integers](https://github.com/bharathiiniyan/Leetode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
