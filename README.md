@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2574-left-and-right-sum-differences](https://github.com/bharathiiniyan/Leetode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/bharathiiniyan/Leetode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3838-weighted-word-mapping](https://github.com/bharathiiniyan/Leetode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/bharathiiniyan/Leetode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
