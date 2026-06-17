@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bharathiiniyan/Leetode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bharathiiniyan/Leetode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 | [2937-make-three-strings-equal](https://github.com/bharathiiniyan/Leetode/tree/master/2937-make-three-strings-equal) |
 | [3110-score-of-a-string](https://github.com/bharathiiniyan/Leetode/tree/master/3110-score-of-a-string) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/bharathiiniyan/Leetode/tree/master/1952-three-divisors) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bharathiiniyan/Leetode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
