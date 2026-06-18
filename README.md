@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bharathiiniyan/Leetode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bharathiiniyan/Leetode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bharathiiniyan/Leetode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 | [2937-make-three-strings-equal](https://github.com/bharathiiniyan/Leetode/tree/master/2937-make-three-strings-equal) |
 | [3110-score-of-a-string](https://github.com/bharathiiniyan/Leetode/tree/master/3110-score-of-a-string) |
