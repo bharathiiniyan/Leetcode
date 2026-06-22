@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/bharathiiniyan/Leetode/tree/master/1929-concatenation-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/bharathiiniyan/Leetode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/bharathiiniyan/Leetode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bharathiiniyan/Leetode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/bharathiiniyan/Leetode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/bharathiiniyan/Leetode/tree/master/0441-arranging-coins) |
 | [1952-three-divisors](https://github.com/bharathiiniyan/Leetode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/bharathiiniyan/Leetode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/bharathiiniyan/Leetode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
