@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bharathiiniyan/Leetode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bharathiiniyan/Leetode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bharathiiniyan/Leetode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2063-vowels-of-all-substrings](https://github.com/bharathiiniyan/Leetode/tree/master/2063-vowels-of-all-substrings) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
 | [2937-make-three-strings-equal](https://github.com/bharathiiniyan/Leetode/tree/master/2937-make-three-strings-equal) |
 | [3110-score-of-a-string](https://github.com/bharathiiniyan/Leetode/tree/master/3110-score-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2063-vowels-of-all-substrings](https://github.com/bharathiiniyan/Leetode/tree/master/2063-vowels-of-all-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bharathiiniyan/Leetode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/bharathiiniyan/Leetode/tree/master/0441-arranging-coins) |
 | [1952-three-divisors](https://github.com/bharathiiniyan/Leetode/tree/master/1952-three-divisors) |
+| [2063-vowels-of-all-substrings](https://github.com/bharathiiniyan/Leetode/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/bharathiiniyan/Leetode/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/bharathiiniyan/Leetode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bharathiiniyan/Leetode/tree/master/0073-set-matrix-zeroes) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/bharathiiniyan/Leetode/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
