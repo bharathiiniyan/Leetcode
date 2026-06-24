@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/bharathiiniyan/Leetode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/bharathiiniyan/Leetode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharathiiniyan/Leetode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bharathiiniyan/Leetode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharathiiniyan/Leetode/tree/master/0287-find-the-duplicate-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bharathiiniyan/Leetode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathiiniyan/Leetode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/bharathiiniyan/Leetode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/bharathiiniyan/Leetode/tree/master/0205-isomorphic-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bharathiiniyan/Leetode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2716-minimize-string-length](https://github.com/bharathiiniyan/Leetode/tree/master/2716-minimize-string-length) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathiiniyan/Leetode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bharathiiniyan/Leetode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
